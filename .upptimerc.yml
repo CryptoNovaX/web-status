@@ -35,8 +35,8 @@ sites:
     url: https://www.cryptonvx.com/blog/
 
 status-website:
-  # cname: status.cryptonvx.com
-  baseUrl: /web-status
+  cname: status.cryptonvx.com
+  baseUrl: /
   logoUrl: https://www.cryptonvx.com/assets/img/logo-wb.png
   favicon: https://www.cryptonvx.com/assets/img/favicon/apple-touch-icon.png
   name: CryptoNovaX Status
