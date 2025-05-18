@@ -1,36 +1,46 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: CryptoNovaX
+repo: web-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Site principal
+    description: Site officiel CryptoNovaX - Investir et suivre vos investissements
+    url: https://www.cryptonvx.com/
+  - name: API publique
+    description: Point d’accès à l’API REST CryptoNovaX pour le suivi des données blockchain
+    url: https://api.cryptonvx.com/v1/app
+  - name: Tableau de bord utilisateur
+    description: Espace sécurisé pour gérer et suivre vos investissements
+    url: https://app.cryptonvx.com/login
+  # - name: Documentation
+  #   description: Guides et documentation pour utiliser la plateforme CryptoNovaX
+  #   url: https://docs.cryptonvx.com
+  - name: Blog et actualités
+    description: Informations, annonces et conseils liés aux cryptomonnaies et investissements
+    url: https://www.cryptonvx.com/blog/
+  - name: Statut base de données MongoDB
+    description: Vérification de la disponibilité de la base de données MongoDB
+    url: https://newsletter-api.newsletter-658.workers.dev/v1/newsletter
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: status.cryptonvx.com
+  baseUrl: /web-status
+  logoUrl: https://www.cryptonvx.com/assets/img/logo-wb.png
+  name: CryptoNovaX Status
+  introTitle: "**CryptoNovaX Status** – Suivi en temps réel de la disponibilité de nos services"
+  introMessage: >
+    Bienvenue sur la page officielle de statut de CryptoNovaX.  
+    Nous assurons une surveillance continue de nos services pour garantir la meilleure expérience possible dans la gestion et le suivi de vos investissements en cryptomonnaies.  
+    Notre plateforme connecte toutes les blockchains pour un suivi précis et automatisé, avec des alertes personnalisées et des outils de simulation avancés.  
+    <br><br>
+    Pour toute question ou signalement, veuillez consulter notre [dépôt GitHub](https://github.com/CryptoNovaX/web-status) ou contacter notre support via le tableau de bord.
   navbar:
-    - title: Status
+    - title: État des services
       href: /
+    - title: Whitepaper
+      href: https://www.cryptonvx.com/whitepaper/
+    - title: Site
+      href: https://www.cryptonvx.com/
+    - title: Blog
+      href: https://www.cryptonvx.com/blog/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/CryptoNovaX/web-status
