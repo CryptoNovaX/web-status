@@ -11,18 +11,22 @@ sites:
   - name: "API | Connexion / Inscription"
     description: Service d’authentification pour la création et la gestion sécurisée des comptes utilisateurs CryptoNovaX.
     url: https://login-api.login-api.workers.dev/v1/login
+    method: POST
     expectedStatus: [400, 405]
   - name: "API | Profil de l'utilisateur"
     description: API dédiée à la gestion des profils utilisateurs et à la récupération des données personnelles et financières.
     url: https://api.cryptonvx.com/v1/app
+    method: POST
     expectedStatus: [400, 405]
   - name: "API | Mise à jour des prix"
     description: Service d’actualisation des prix en temps réel, connecté à toutes les blockchains supportées par CryptoNovaX.
     url: https://price-cryptonvx.mongo-price-storage.workers.dev/v1/price
+    method: POST
     expectedStatus: [400, 405]
   - name: "API | Newsletter"
     description: API permettant la gestion des abonnements et l’envoi des newsletters d’actualités et d’alertes CryptoNovaX.
     url: https://newsletter-api.newsletter-658.workers.dev/v1/newsletter
+    method: POST
     expectedStatus: [400, 405]
   # - name: Documentation
   #   description: Guides et ressources pour comprendre et utiliser toutes les fonctionnalités de la plateforme CryptoNovaX.
