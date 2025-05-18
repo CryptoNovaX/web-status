@@ -2,29 +2,43 @@ owner: CryptoNovaX
 repo: web-status
 
 sites:
-  - name: Site principal
-    description: Site officiel CryptoNovaX - Investir et suivre vos investissements
+  - name: "Front-end | Site principal"
+    description: Accédez au site officiel CryptoNovaX pour investir, suivre votre patrimoine et découvrir les fonctionnalités de la plateforme.
     url: https://www.cryptonvx.com/
-  - name: API publique
-    description: Point d’accès à l’API REST CryptoNovaX pour le suivi des données blockchain
-    url: https://api.cryptonvx.com/v1/app
-  - name: Tableau de bord utilisateur
-    description: Espace sécurisé pour gérer et suivre vos investissements
+  - name: "Front-end | Plateforme"
+    description: Espace sécurisé permettant la gestion de vos investissements, le suivi de vos performances et l’accès à vos outils personnalisés.
     url: https://app.cryptonvx.com/login
-  # - name: Documentation
-  #   description: Guides et documentation pour utiliser la plateforme CryptoNovaX
-  #   url: https://docs.cryptonvx.com
-  - name: Blog et actualités
-    description: Informations, annonces et conseils liés aux cryptomonnaies et investissements
-    url: https://www.cryptonvx.com/blog/
-  - name: Statut base de données MongoDB
-    description: Vérification de la disponibilité de la base de données MongoDB
+  - name: "API | Connexion / Inscription"
+    description: Service d’authentification pour la création et la gestion sécurisée des comptes utilisateurs CryptoNovaX.
+    url: https://login-api.login-api.workers.dev/v1/login
+    expectedStatus: 400
+  - name: "API | Profil de l'utilisateur"
+    description: API dédiée à la gestion des profils utilisateurs et à la récupération des données personnelles et financières.
+    url: https://api.cryptonvx.com/v1/app
+    expectedStatus: 400
+  - name: "API | Mise à jour des prix"
+    description: Service d’actualisation des prix en temps réel, connecté à toutes les blockchains supportées par CryptoNovaX.
+    url: https://price-cryptonvx.mongo-price-storage.workers.dev/v1/price
+    expectedStatus: 400
+  - name: "API | Newsletter"
+    description: API permettant la gestion des abonnements et l’envoi des newsletters d’actualités et d’alertes CryptoNovaX.
     url: https://newsletter-api.newsletter-658.workers.dev/v1/newsletter
+    expectedStatus: 400
+  # - name: Documentation
+  #   description: Guides et ressources pour comprendre et utiliser toutes les fonctionnalités de la plateforme CryptoNovaX.
+  #   url: https://docs.cryptonvx.com
+  - name: "CDN | Content Delivery Network"
+    description: Service de diffusion de contenu (CDN) fournissant les icônes, données statiques et ressources nécessaires à l’interface utilisateur.
+    url: https://cdn.cryptonvx.com/icons-data/index.json
+  - name: "Ressource | Blog et actualités"
+    description: Retrouvez les dernières actualités, analyses, conseils et annonces officielles de CryptoNovaX.
+    url: https://www.cryptonvx.com/blog/
 
 status-website:
-  # cname: status.cryptonvx.com
+  cname: status.cryptonvx.com
   baseUrl: /web-status
   logoUrl: https://www.cryptonvx.com/assets/img/logo-wb.png
+  favicon: https://www.cryptonvx.com/assets/img/favicon/apple-touch-icon.png
   name: CryptoNovaX Status
   introTitle: "**CryptoNovaX Status** – Suivi en temps réel de la disponibilité de nos services"
   introMessage: >
@@ -43,4 +57,5 @@ status-website:
     - title: Blog
       href: https://www.cryptonvx.com/blog/
     - title: GitHub
-      href: https://github.com/CryptoNovaX/web-status
+      href: https://github.com/CryptoNovaX/
+  theme: light
