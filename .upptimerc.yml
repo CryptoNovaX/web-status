@@ -7,7 +7,7 @@ sites:
     url: https://www.cryptonvx.com/up.txt
   - name: "Front-end | Plateforme"
     description: Espace sécurisé permettant la gestion de vos investissements, le suivi de vos performances et l’accès à vos outils personnalisés.
-    url: https://app.cryptonvx.com/login
+    url: https://app.cryptonvx.com/up.txt
   - name: "API | Connexion / Inscription"
     description: Service d’authentification pour la création et la gestion sécurisée des comptes utilisateurs CryptoNovaX.
     url: https://login-api.login-api.workers.dev/up
