@@ -4,7 +4,7 @@ repo: web-status
 sites:
   - name: "Front-end | Site principal"
     description: Accédez au site officiel CryptoNovaX pour investir, suivre votre patrimoine et découvrir les fonctionnalités de la plateforme.
-    url: https://www.cryptonvx.com/
+    url: https://www.cryptonvx.com/up.txt
   - name: "Front-end | Plateforme"
     description: Espace sécurisé permettant la gestion de vos investissements, le suivi de vos performances et l’accès à vos outils personnalisés.
     url: https://app.cryptonvx.com/login
@@ -28,7 +28,7 @@ sites:
     url: https://cdn.cryptonvx.com/up.txt
   - name: "Ressource | Blog et actualités"
     description: Retrouvez les dernières actualités, analyses, conseils et annonces officielles de CryptoNovaX.
-    url: https://www.cryptonvx.com/blog/
+    url: https://www.cryptonvx.com/blog/up.txt
 
 status-website:
   cname: status.cryptonvx.com
@@ -54,3 +54,6 @@ status-website:
     - title: GitHub
       href: https://github.com/CryptoNovaX/
   theme: light
+
+i18n:
+  footer: © CryptoNovaX 2025 - Tous droits réservés
