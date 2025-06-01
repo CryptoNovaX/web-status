@@ -54,6 +54,12 @@ status-website:
     - title: GitHub
       href: https://github.com/CryptoNovaX/
   theme: light
+  customHeadHtml: |
+    <style>
+      :root {
+        --nav-current-border-bottom-color: #f1c086 !important;
+      }
+    </style>
 
 i18n:
   footer: © CryptoNovaX 2025 - Tous droits réservés
