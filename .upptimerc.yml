@@ -23,6 +23,9 @@ sites:
   - name: "API | Newsletter"
     description: API permettant la gestion des abonnements et l'envoi des newsletters d'actualités et d'alertes CryptoNovaX.
     url: https://newsletter-api.newsletter-658.workers.dev/up
+  - name: "API | Taux de change fiat"
+    description: Service de récupération des taux de change entre devises fiat (EUR, USD, etc.) utilisé par la plateforme CryptoNovaX.
+    url: https://currency-cryptonvx.currency-api.workers.dev/up
   # - name: Documentation
   #   description: Guides et ressources pour comprendre et utiliser toutes les fonctionnalités de la plateforme CryptoNovaX.
   #   url: https://docs.cryptonvx.com
