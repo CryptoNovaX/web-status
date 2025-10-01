@@ -58,18 +58,20 @@
     "url": "https://api.cryptonvx.com/up",
     "icon": "https://icons.duckduckgo.com/ip3/api.cryptonvx.com.ico",
     "slug": "api-profil-de-l-utilisateur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 152,
-    "timeWeek": 164,
-    "timeMonth": 190,
-    "timeYear": 184,
-    "dailyMinutesDown": {}
+    "time": 188,
+    "timeDay": 361,
+    "timeWeek": 215,
+    "timeMonth": 203,
+    "timeYear": 188,
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   },
   {
     "name": "API | Mise à jour des prix",
