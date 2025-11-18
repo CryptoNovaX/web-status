@@ -6,9 +6,9 @@
     "slug": "front-end-site-principal",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 191,
     "timeDay": 91,
@@ -16,7 +16,7 @@
     "timeMonth": 165,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "front-end-plateforme",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 143,
@@ -36,7 +36,7 @@
     "timeMonth": 174,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -44,55 +44,59 @@
     "url": "https://login-api.login-api.workers.dev/up",
     "icon": "https://icons.duckduckgo.com/ip3/login-api.login-api.workers.dev.ico",
     "slug": "api-connexion-inscription",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 212,
-    "timeWeek": 165,
-    "timeMonth": 130,
-    "timeYear": 160,
-    "dailyMinutesDown": {}
+    "time": 159,
+    "timeDay": 134,
+    "timeWeek": 151,
+    "timeMonth": 128,
+    "timeYear": 159,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "API | Profil de l'utilisateur",
     "url": "https://api.cryptonvx.com/up",
     "icon": "https://icons.duckduckgo.com/ip3/api.cryptonvx.com.ico",
     "slug": "api-profil-de-l-utilisateur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 264,
-    "timeWeek": 169,
-    "timeMonth": 150,
-    "timeYear": 179,
-    "dailyMinutesDown": {}
+    "time": 178,
+    "timeDay": 158,
+    "timeWeek": 154,
+    "timeMonth": 147,
+    "timeYear": 178,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "API | Mise à jour des prix",
     "url": "https://price-cryptonvx.mongo-price-storage.workers.dev/up",
     "icon": "https://icons.duckduckgo.com/ip3/price-cryptonvx.mongo-price-storage.workers.dev.ico",
     "slug": "api-mise-a-jour-des-prix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 117,
-    "timeWeek": 112,
-    "timeMonth": 109,
-    "timeYear": 155,
+    "time": 154,
+    "timeDay": 102,
+    "timeWeek": 106,
+    "timeMonth": 107,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 0
     }
   },
   {
@@ -102,9 +106,9 @@
     "slug": "api-historique-des-prix",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 145,
     "timeDay": 119,
@@ -112,7 +116,7 @@
     "timeMonth": 124,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -121,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsletter-api.newsletter-658.workers.dev.ico",
     "slug": "api-newsletter",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 156,
     "timeDay": 220,
     "timeWeek": 184,
     "timeMonth": 139,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 16
     }
   },
   {
@@ -142,9 +146,9 @@
     "slug": "api-taux-de-change-fiat",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 177,
@@ -152,7 +156,7 @@
     "timeMonth": 124,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -162,9 +166,9 @@
     "slug": "cdn-content-delivery-network",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 155,
@@ -172,7 +176,7 @@
     "timeMonth": 182,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -182,9 +186,9 @@
     "slug": "ressource-blog-et-actualites",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 84,
@@ -192,7 +196,7 @@
     "timeMonth": 91,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   }
 ]
