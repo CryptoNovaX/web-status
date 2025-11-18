@@ -1,7 +1,7 @@
 url: https://api.cryptonvx.com/up
-status: down
-code: 500
-responseTime: 153
-lastUpdated: 2025-11-18T14:58:51.029Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2025-11-18T15:26:31.371Z
 startTime: 2025-05-19T09:18:18.502Z
 generator: Upptime <https://github.com/upptime/upptime>
