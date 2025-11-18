@@ -1,7 +1,7 @@
 url: https://newsletter-api.newsletter-658.workers.dev/up
-status: down
-code: 500
-responseTime: 89
-lastUpdated: 2025-11-18T11:40:33.502Z
+status: up
+code: 200
+responseTime: 121
+lastUpdated: 2025-11-18T14:37:42.930Z
 startTime: 2025-05-19T09:18:19.566Z
 generator: Upptime <https://github.com/upptime/upptime>
