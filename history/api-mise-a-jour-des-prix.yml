@@ -1,7 +1,7 @@
 url: https://price-cryptonvx.mongo-price-storage.workers.dev/up
-status: up
-code: 200
-responseTime: 66
-lastUpdated: 2025-11-18T11:48:44.757Z
+status: down
+code: 500
+responseTime: 56
+lastUpdated: 2025-11-18T11:56:45.752Z
 startTime: 2025-05-19T09:18:19.082Z
 generator: Upptime <https://github.com/upptime/upptime>
