@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cryptonvx.com.ico",
     "slug": "front-end-site-principal",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 191,
     "timeDay": 91,
     "timeWeek": 161,
     "timeMonth": 165,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 50
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.cryptonvx.com/up.txt",
     "icon": "https://icons.duckduckgo.com/ip3/app.cryptonvx.com.ico",
     "slug": "front-end-plateforme",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 143,
-    "timeWeek": 191,
-    "timeMonth": 174,
-    "timeYear": 194,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
+    "time": 193,
+    "timeDay": 142,
+    "timeWeek": 185,
+    "timeMonth": 173,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 50
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://login-api.login-api.workers.dev/up",
     "icon": "https://icons.duckduckgo.com/ip3/login-api.login-api.workers.dev.ico",
     "slug": "api-connexion-inscription",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 159,
-    "timeDay": 134,
-    "timeWeek": 151,
-    "timeMonth": 128,
+    "timeDay": 125,
+    "timeWeek": 146,
+    "timeMonth": 127,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 42
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.cryptonvx.com.ico",
     "slug": "api-profil-de-l-utilisateur",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 178,
     "timeDay": 158,
     "timeWeek": 154,
     "timeMonth": 147,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 42
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://price-cryptonvx.mongo-price-storage.workers.dev/up",
     "icon": "https://icons.duckduckgo.com/ip3/price-cryptonvx.mongo-price-storage.workers.dev.ico",
     "slug": "api-mise-a-jour-des-prix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 154,
-    "timeDay": 102,
+    "timeDay": 104,
     "timeWeek": 106,
     "timeMonth": 107,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 42
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/candles-cryptonvx.candles-api.workers.dev.ico",
     "slug": "api-historique-des-prix",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 145,
     "timeDay": 119,
     "timeWeek": 120,
     "timeMonth": 124,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 50
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsletter-api.newsletter-658.workers.dev.ico",
     "slug": "api-newsletter",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
     "time": 156,
     "timeDay": 220,
     "timeWeek": 184,
     "timeMonth": 139,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-11-18": 16
+      "2025-11-18": 58
     }
   },
   {
@@ -145,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/currency-cryptonvx.currency-api.workers.dev.ico",
     "slug": "api-taux-de-change-fiat",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 136,
     "timeDay": 177,
     "timeWeek": 154,
     "timeMonth": 124,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 50
     }
   },
   {
@@ -165,18 +165,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.cryptonvx.com.ico",
     "slug": "cdn-content-delivery-network",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 217,
     "timeDay": 155,
     "timeWeek": 183,
     "timeMonth": 182,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 50
     }
   },
   {
@@ -185,18 +185,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cryptonvx.com.ico",
     "slug": "ressource-blog-et-actualites",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 134,
     "timeDay": 84,
     "timeWeek": 91,
     "timeMonth": 91,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 50
     }
   }
 ]
