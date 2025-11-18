@@ -1,7 +1,7 @@
 url: https://candles-cryptonvx.candles-api.workers.dev/up
-status: down
-code: 500
-responseTime: 67
-lastUpdated: 2025-11-18T11:48:48.132Z
+status: up
+code: 200
+responseTime: 99
+lastUpdated: 2025-11-18T14:37:40.605Z
 startTime: 2025-06-11T09:33:43.245Z
 generator: Upptime <https://github.com/upptime/upptime>
