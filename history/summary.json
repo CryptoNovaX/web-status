@@ -76,18 +76,20 @@
     "url": "https://price-cryptonvx.mongo-price-storage.workers.dev/up",
     "icon": "https://icons.duckduckgo.com/ip3/price-cryptonvx.mongo-price-storage.workers.dev.ico",
     "slug": "api-mise-a-jour-des-prix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 138,
-    "timeWeek": 113,
-    "timeMonth": 109,
+    "timeDay": 143,
+    "timeWeek": 117,
+    "timeMonth": 110,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "API | Historique des prix",
@@ -112,18 +114,20 @@
     "url": "https://newsletter-api.newsletter-658.workers.dev/up",
     "icon": "https://icons.duckduckgo.com/ip3/newsletter-api.newsletter-658.workers.dev.ico",
     "slug": "api-newsletter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 351,
-    "timeWeek": 197,
-    "timeMonth": 141,
-    "timeYear": 157,
-    "dailyMinutesDown": {}
+    "time": 156,
+    "timeDay": 220,
+    "timeWeek": 184,
+    "timeMonth": 139,
+    "timeYear": 156,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "API | Taux de change fiat",
