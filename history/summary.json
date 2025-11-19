@@ -11,9 +11,9 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.94%",
     "time": 191,
-    "timeDay": 120,
-    "timeWeek": 163,
-    "timeMonth": 166,
+    "timeDay": 158,
+    "timeWeek": 169,
+    "timeMonth": 168,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2025-11-18": 169
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.95%",
     "time": 193,
-    "timeDay": 134,
-    "timeWeek": 174,
-    "timeMonth": 170,
+    "timeDay": 136,
+    "timeWeek": 183,
+    "timeMonth": 173,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-11-18": 129
@@ -50,11 +50,11 @@
     "uptimeWeek": "98.80%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.95%",
-    "time": 158,
-    "timeDay": 104,
-    "timeWeek": 133,
-    "timeMonth": 124,
-    "timeYear": 158,
+    "time": 159,
+    "timeDay": 112,
+    "timeWeek": 150,
+    "timeMonth": 128,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2025-11-18": 121
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.93%",
     "time": 178,
-    "timeDay": 162,
-    "timeWeek": 157,
-    "timeMonth": 148,
+    "timeDay": 161,
+    "timeWeek": 162,
+    "timeMonth": 150,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2025-11-18": 189
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/price-cryptonvx.mongo-price-storage.workers.dev.ico",
     "slug": "api-mise-a-jour-des-prix",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "89.10%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.94%",
-    "time": 265,
-    "timeDay": 2116,
-    "timeWeek": 1408,
-    "timeMonth": 647,
-    "timeYear": 265,
+    "uptime": "99.95%",
+    "uptimeDay": "90.05%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.95%",
+    "time": 264,
+    "timeDay": 2117,
+    "timeWeek": 1411,
+    "timeMonth": 649,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-11-18": 158
+      "2025-11-18": 144
     }
   },
   {
@@ -111,9 +111,9 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.93%",
     "time": 145,
-    "timeDay": 112,
-    "timeWeek": 118,
-    "timeMonth": 123,
+    "timeDay": 103,
+    "timeWeek": 123,
+    "timeMonth": 122,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2025-11-18": 169
@@ -131,9 +131,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.93%",
     "time": 156,
-    "timeDay": 187,
-    "timeWeek": 177,
-    "timeMonth": 139,
+    "timeDay": 128,
+    "timeWeek": 184,
+    "timeMonth": 140,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2025-11-18": 177
@@ -150,11 +150,11 @@
     "uptimeWeek": "98.19%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.91%",
-    "time": 137,
-    "timeDay": 219,
-    "timeWeek": 171,
-    "timeMonth": 129,
-    "timeYear": 137,
+    "time": 138,
+    "timeDay": 192,
+    "timeWeek": 185,
+    "timeMonth": 132,
+    "timeYear": 138,
     "dailyMinutesDown": {
       "2025-11-18": 182
     }
@@ -171,9 +171,9 @@
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.93%",
     "time": 217,
-    "timeDay": 171,
-    "timeWeek": 183,
-    "timeMonth": 182,
+    "timeDay": 181,
+    "timeWeek": 192,
+    "timeMonth": 184,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-11-18": 198
@@ -190,11 +190,11 @@
     "uptimeWeek": "98.32%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.94%",
-    "time": 133,
-    "timeDay": 77,
-    "timeWeek": 88,
-    "timeMonth": 90,
-    "timeYear": 133,
+    "time": 134,
+    "timeDay": 89,
+    "timeWeek": 98,
+    "timeMonth": 93,
+    "timeYear": 134,
     "dailyMinutesDown": {
       "2025-11-18": 169
     }
